@@ -138,3 +138,4 @@ def xml2text(path):
 
 
 xml2text(docx_path)
+# TODO rewrite in module, add footer and header
